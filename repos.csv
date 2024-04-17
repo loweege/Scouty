@@ -1,0 +1,6 @@
+date,rank,item,repo_name,stars,forks,language,repo_url,username,issues,last_commit,description
+2018-12-18,1,Python,awesome-python,58777,11448,Python,https://github.com/vinta/awesome-python,vinta,439,2018-12-13T08:29:32Z,"A curated list of awesome Python frameworks, libraries, software and resources"
+2018-12-18,2,Python,system-design-primer,53575,7570,Python,https://github.com/donnemartin/system-design-primer,donnemartin,68,2018-12-18T11:20:56Z,Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+2018-12-18,34,Python,tornado,17002,4814,Python,https://github.com/tornadoweb/tornado,tornadoweb,148,2018-12-15T22:24:04Z,"Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed."
+2018-12-18,74,Python,pix2code,9871,964,Python,https://github.com/tonybeltramelli/pix2code,tonybeltramelli,0,2017-12-13T08:36:56Z,pix2code: Generating Code from a Graphical User Interface Screenshot
+2023-09-07,72,Python,yewtube,7612,643,Python,https://github.com/mps-youtube/yewtube,mps-youtube,182,2023-08-29T02:08:50Z,"yewtube, forked from mps-youtube , is a Terminal based YouTube player and downloader. No Youtube API key required."
